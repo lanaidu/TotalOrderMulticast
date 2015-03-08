@@ -1,0 +1,4 @@
+net10.utdallas.edu:from 10:net20.utdallas.edu:net30.utdallas.edu:net40.utdallas.edu
+net20.utdallas.edu:from 20:net40.utdallas.edu:net10.utdallas.edu
+net30.utdallas.edu:from 30:net20.utdallas.edu
+net40.utdallas.edu:from 40:net10.utdallas.edu:net20.utdallas.edu
